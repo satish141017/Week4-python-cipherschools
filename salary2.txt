@@ -1,0 +1,3 @@
+hershit salary is 100
+satish salary is 500
+kamlesh salary is 62500000

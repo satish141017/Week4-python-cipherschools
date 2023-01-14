@@ -1,0 +1,3 @@
+hershit,100
+satish,500
+kamlesh,62500000
